@@ -1,2 +1,2 @@
 # ASampleAppSeventeen
-Xamarin Test Cloud
+Xamarin Test Cloud and Test on Mobile Center
